@@ -1,7 +1,7 @@
 # Hello, I'm Nick Jankovic 👋
 
 ### About Me:
-- 🎓 I'm a Computer Science undergrad @ Brown University ('26)
+- 🎓 I'm a Computer Science & Applied Math undergrad @ Brown University ('26)
 - 🔭 I'm currently working on an AI tour guide mobile app
 - 👨‍💻 My last project was a student portal mobile app for my high school
 - 📫 You can reach me at nicholas_jankovic@brown.edu
