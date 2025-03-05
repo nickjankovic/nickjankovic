@@ -1,6 +1,6 @@
 # Hello, I'm Nick Jankovic 👋
 
-I'm a Computer Science & Applied Math undergrad @ Brown University ('26)
+I'm a Computer Science & Applied Math undergrad @ Brown University ('26) interested in studying cryptography
 
 
 <!--
