@@ -1,7 +1,7 @@
 # Hello, I'm Nick Jankovic 👋
 
-I'm a Computer Science & Applied Math undergrad @ Brown University ('26) interested in studying cryptography
-
+I'm a PhD student at Georgia Tech advised by Prof. Vassilis Zikas.
+Learn more about me at nickjankovic.com.
 
 <!--
 **nickjankovic/nickjankovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
