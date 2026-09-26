@@ -1,6 +1,6 @@
 # Hello, I'm Nick Jankovic 👋
 
-I'm a PhD student at Georgia Tech advised by Prof. Vassilis Zikas. Learn more about me [here]{https://nickjankovic.com}.
+I'm a PhD student at Georgia Tech advised by Prof. Vassilis Zikas. Learn more about me [here](https://nickjankovic.com).
 
 <!--
 **nickjankovic/nickjankovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
